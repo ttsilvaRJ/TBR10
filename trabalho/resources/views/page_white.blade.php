@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Página dashboard</h1>
+    <p>Para retornar a página de cadastro </p>
+    <a href="{{asset('page')}}">Clique aqui</a>
+</body>
+</html>
